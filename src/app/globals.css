@@ -3,4 +3,10 @@
 @theme {
   --color-background: #487EDE;
   --color-card: #FCF2F0;
+  --color-card-button1: #F0CE76;
+  --color-card-button1-hover: #f0ce76;
+  --color-card-button2: #D67A5D;
+  --color-card-button3: #CFB3F2;
+  --color-card-button4: #E5E0A0;
+  --color-card-button5: #BE75A8;
 }
